@@ -1,4 +1,4 @@
 [submodule "PositionBasedDynamics"]
 	path = PositionBasedDynamics
-	url = https://github.com/i12345/PositionBasedDynamics/tree/emscripten-compatible
+	url = https://github.com/i12345/PositionBasedDynamics
 	branch = emscripten-compatible
