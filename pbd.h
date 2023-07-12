@@ -1,4 +1,4 @@
-#include <PositionBasedDynamics/Common/Common.h>
+#include "PositionBasedDynamics/Common/Common.h"
 #include <PositionBasedDynamics/Simulation/AABB.h>
 #include <PositionBasedDynamics/Simulation/BoundingSphere.h>
 #include <PositionBasedDynamics/Simulation/BoundingSphereHierarchy.h>
