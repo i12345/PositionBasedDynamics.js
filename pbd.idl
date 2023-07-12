@@ -1,0 +1,9 @@
+
+[Prefix="PBD::"]
+interface AABB {
+    [Operator="=", Ref] AABB op_eq([Ref] AABB aabb);
+};
+
+interface Vector2r {
+    
+};
